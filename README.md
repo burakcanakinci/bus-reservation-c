@@ -30,9 +30,3 @@ To run the Bus Ticket Reservation System, follow these steps:
 
 ## Usage<a name="usage"></a>
 Upon running the Bus Ticket Reservation System, you will be presented with a menu-driven interface. Follow the on-screen instructions to perform various operations, such as ticket booking, cancellation, and modification. The system will display relevant information and prompts to guide you through the process. Enjoy booking your bus tickets hassle-free!
-
-## Contributing<a name="contributing"></a>
-Contributions to this project are always welcome. If you find any issues or have ideas for improvements, please open an issue on the [GitHub repository](https://github.com/Venkateeshh/Bus-Reservation-in-C/issues). You can also fork the repository, make changes, and submit a pull request.
-
-
-We hope you find the Bus Ticket Reservation System useful and efficient for managing bus bookings. If you have any further questions or need assistance, please don't hesitate to reach out. Happy traveling!
